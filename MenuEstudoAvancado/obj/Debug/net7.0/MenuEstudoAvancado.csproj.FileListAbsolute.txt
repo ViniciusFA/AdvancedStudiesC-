@@ -1,0 +1,15 @@
+C:\ViniProjects\MenuEstudoAvancado\MenuEstudoAvancado\bin\Debug\net7.0\MenuEstudoAvancado.exe
+C:\ViniProjects\MenuEstudoAvancado\MenuEstudoAvancado\bin\Debug\net7.0\MenuEstudoAvancado.deps.json
+C:\ViniProjects\MenuEstudoAvancado\MenuEstudoAvancado\bin\Debug\net7.0\MenuEstudoAvancado.runtimeconfig.json
+C:\ViniProjects\MenuEstudoAvancado\MenuEstudoAvancado\bin\Debug\net7.0\MenuEstudoAvancado.dll
+C:\ViniProjects\MenuEstudoAvancado\MenuEstudoAvancado\bin\Debug\net7.0\MenuEstudoAvancado.pdb
+C:\ViniProjects\MenuEstudoAvancado\MenuEstudoAvancado\obj\Debug\net7.0\MenuEstudoAvancado.csproj.AssemblyReference.cache
+C:\ViniProjects\MenuEstudoAvancado\MenuEstudoAvancado\obj\Debug\net7.0\MenuEstudoAvancado.GeneratedMSBuildEditorConfig.editorconfig
+C:\ViniProjects\MenuEstudoAvancado\MenuEstudoAvancado\obj\Debug\net7.0\MenuEstudoAvancado.AssemblyInfoInputs.cache
+C:\ViniProjects\MenuEstudoAvancado\MenuEstudoAvancado\obj\Debug\net7.0\MenuEstudoAvancado.AssemblyInfo.cs
+C:\ViniProjects\MenuEstudoAvancado\MenuEstudoAvancado\obj\Debug\net7.0\MenuEstudoAvancado.csproj.CoreCompileInputs.cache
+C:\ViniProjects\MenuEstudoAvancado\MenuEstudoAvancado\obj\Debug\net7.0\MenuEstudoAvancado.dll
+C:\ViniProjects\MenuEstudoAvancado\MenuEstudoAvancado\obj\Debug\net7.0\refint\MenuEstudoAvancado.dll
+C:\ViniProjects\MenuEstudoAvancado\MenuEstudoAvancado\obj\Debug\net7.0\MenuEstudoAvancado.pdb
+C:\ViniProjects\MenuEstudoAvancado\MenuEstudoAvancado\obj\Debug\net7.0\MenuEstudoAvancado.genruntimeconfig.cache
+C:\ViniProjects\MenuEstudoAvancado\MenuEstudoAvancado\obj\Debug\net7.0\ref\MenuEstudoAvancado.dll
